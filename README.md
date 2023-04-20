@@ -7,8 +7,8 @@ The spread of fake news has recently attracted mass attention. The project aims 
 
 | Model                     | Accuracy     |
 |:-------------------------:|:------------:|
-| Logistic Regression       | 90.92%       |
-| Decision Tree             | 78.98%       |
-| Gradient Boosting         | 89.39%       |
-| Random Forest             | 89.26%       |
+| Logistic Regression       | 91.96%       |
+| Decision Tree             | 80.63%       |
+| Gradient Boosting         | 89.81%       |
+| Random Forest             | 88.73%       |
 
